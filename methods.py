@@ -1,0 +1,16 @@
+Cartoons=['Tom & Jerry','Doremon','Oggy & Cockroaches']
+print(Cartoons)
+print("After appending : ")
+Cartoons.append('Heldi')
+print(Cartoons)
+Cartoons.insert(0,'ChotaBheem')
+print(Cartoons)
+Cartoons.pop()
+print(Cartoons)
+Cartoons.pop(0)
+print(Cartoons)
+Cartoons.remove('Oggy & Cockroaches')
+print(Cartoons) 
+print(Cartoons.index("Doremon"))    
+Cartoons.reverse
+print(Cartoons)
