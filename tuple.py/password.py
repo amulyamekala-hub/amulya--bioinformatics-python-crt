@@ -1,0 +1,3 @@
+"""WAPP to take password as input from the user and check whether it is valid or not"""
+#write a python progran to read name contact num,mail id and password and make sure that conctact num has only 10 digiyt and ,ail should have a vaild structure(name@org,con and password should have at leat 3 upper case 3 lower 3 special and one numberand pass len should no be less than 10)
+# wap to read a syring as input from user and split the string imto three equal half using slicing  
